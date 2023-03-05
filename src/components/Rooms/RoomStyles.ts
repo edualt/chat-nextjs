@@ -18,6 +18,7 @@ export const RoomBox = styled.div`
   flex-direction: row;
   width: 100%;
   background-color: #151215;
+  cursor: pointer;
   border-bottom: 1px solid #232023;
 
   &:hover {
