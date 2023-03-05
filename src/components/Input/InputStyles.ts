@@ -5,13 +5,13 @@ export const InputContainer = styled.div`
     align-items: center;
     justify-content: space-evenly;
     width: 100%;
-    height: 10%;
+    height: 90px;
     background-color: ${props => props.theme.colors.background}};
 `;
 
 export const InputStyled = styled.input`
     width: 90%;
-    height: 60%;
+    height: 50px;
     background-color: #282729;
     border: none;
     color: white;
